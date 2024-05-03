@@ -1,0 +1,1019 @@
+body{
+    position: relative; 
+    background-size:cover;
+	overflow-x: hidden;
+    overflow-y: auto; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+  margin: 0rem 22.217rem 0.261rem 0rem;
+  width: 5.4912rem;
+  height: 3.3994rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.navbar-nav li {
+  margin-right: 5px; 
+  margin-right: 2.9rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #212832;
+  font-family: Google Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-right:2.0rem;
+  position: relative;
+  flex-shrink: 0;  
+}
+
+.navbar-nav li:last-child {
+    margin-right: 0;
+}
+
+.select{
+  border:none;
+}
+
+.container .decore-Wr3 {
+  width:50rem;
+  height: 20rem;
+  position: absolute;
+  left:0px;
+  top:0px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.container .decore-Wr3 .decore-KHh {
+  width: 41.6458rem;
+  height: 42.0rem;
+  margin-left:650px;
+  margin-top:-100px;
+}
+
+.container .btnn{
+  margin-right:2.0rem;
+  position: relative;
+  flex-shrink: 0;
+  background-color:white;
+}
+
+.container .h1{
+	width: 54.2rem;
+  font-size: 4.4rem;
+  font-weight: 700;
+  letter-spacing:-0.200rem;
+  color: #181e4b;
+  font-family: Volkhov;
+}
+
+.container .h1 .decore-sJX {
+  width: 18.5rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 24.3rem;
+  top: 6.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  margin-top:135px;
+  margin-left:-90px;
+}
+
+.container .h5{
+	color:red;font-size:0.9rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 1.5;
+  color: RED;
+  font-family: Poppins;
+  white-space: nowrap;
+}
+
+.container .h6{
+	 max-width: 47.8rem;
+  font-size: 1.0rem;
+  font-weight: 500;
+  line-height: 1.875;
+  color: #5e6282;
+  font-family: Poppins;
+}
+
+.container .btn{
+  margin-right: 3.4rem;
+  width: 10rem;
+  height: 100%;
+  text-align: center;
+  font-size:1.1rem;
+  font-weight: 500;
+  color: #ffffff;
+  font-family: Google Sans,;
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2rem 3.5rem rgba(241, 165, 1, 0.150000006);
+  background-color: #f1a501;
+  flex-shrink: 0;
+}
+
+.container .image-pqM {
+  width: 76.5rem;
+  height: 76.4rem;
+  position: absolute;
+  left: 41.7rem;
+  top: 0;
+}
+.container .image-pqM .traveller-1-heF {
+  width: 500.5px;
+  height: 550.4px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  vertical-align: top;
+  margin-top:80px;
+  margin-left:40px;
+}
+
+
+
+
+
+
+
+
+
+.travel .services {
+  margin: 0rem 26.3rem 12.3rem 15.15rem;
+  width: calc(100% - 41.45rem);
+  height: 52.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.travel .services .category{
+  margin: 22rem 3.55rem 7.8rem 0rem;
+  height: calc(100% - 29.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.travel .services .category .group {
+  width: 5.2rem;
+  height: 3.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-left:-50px;
+  margin-top:-5px;
+}
+
+.travel .services .category .calculated{
+  margin-bottom: 1.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #1e1d4c;
+  font-family: Open Sans;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left:-400px;
+
+}
+.travel .services .category .built{
+  margin-left: 0.1rem;
+  max-width: 15.2rem;
+  text-align: center;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+  margin-left:-400px;
+}
+
+.travel .services .auto {
+  margin: 0.8rem 8.7rem 0rem 0rem;
+  width: 59.35rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .services .auto .category-1aP {
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #5e6282;
+  font-family: Poppins,;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:100px;
+  margin-right:1000px;
+}
+.travel .services .auto .offer {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #14183e;
+  font-family: Volkhov;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-right:1000px;
+}
+.travel .services .auto .auto-group {
+  margin-right: 3.55rem;
+  width: calc(100% - 3.55rem);
+  height: 34.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .services .auto .auto-group .active {
+  margin-right: 8.3rem;
+  width: 30.2rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.travel .services .auto .auto-group .active .rectangle-1{
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 24.7rem;
+  background-color: #df6951;
+  border-radius: 3rem 0 1rem 0;
+  margin-left:-300px;
+  margin-top:-130px;
+}
+.travel .services .auto .auto-group .active .rectangle-2 {
+  width: 15.0rem;
+  height: 20.0rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 0;
+  box-shadow: 0 0.1852rem 0.3148rem rgba(0, 0, 0, 0.0048148148), 0 0.8148rem 0.6519rem rgba(0, 0, 0, 0.0078518521), 0 2rem 1.3rem rgba(0, 0, 0, 0.0099999998), 0 3.8519rem 2.5481rem rgba(0, 0, 0, 0.0121481484), 0 6.4815rem 4.6852rem rgba(0, 0, 0, 0.0151851848), 0 10rem 8rem rgba(0, 0, 0, 0.0199999996);
+  background-color: #ffffff;
+  border-radius: 3.6rem;
+  margin-left:-340px;
+}
+
+.travel .services .auto .auto-group .active .engrossed {
+  width: 15.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 9.05rem;
+  top: 19.1rem;
+  text-align: center;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5e6282;
+  font-family: Poppins;
+  margin-left:-420px;
+  margin-top:-95px;
+}
+.travel .services .auto .auto-group .active .best{
+  width: 11.1rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 10.9rem;
+  top: 14.9rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #1e1d4c;
+  font-family: Open Sans;
+  white-space: nowrap;
+  margin-left:-380px;
+  margin-top:-85px;
+}
+.travel .services .auto .auto-group .active .group-51{
+  width: 5.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 10.857rem;
+  top: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  margin-left:-350px;
+  margin-top:35px;
+}
+.travel .services .auto .auto-group .category-xJb {
+  margin: 4rem 0rem 7.8rem 0rem;
+  width: 17.3rem;
+  height: calc(100% - 11.8rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .services .auto .auto-group .category-xJb .group-50 {
+  margin: 0rem 4.4rem 3.4rem 6.2rem;
+  width: calc(100% - 10.6rem);
+  height: 7.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.travel .services .auto .auto-group .category-xJb .group-50 .image-25{
+  width: 3.0rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 0 3rem 3.5rem;
+  margin-left:-650px;
+  margin-top:40px;
+}
+.travel .services .auto .auto-group .category-xJb .local{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #1e1d4c;
+  font-family: Open Sans;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left:-1300px;
+  margin-top:-85px;
+}
+.travel .services .auto .auto-group .category-xJb .barton {
+  max-width: 17.3rem;
+  text-align: center;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+  margin-left:-1300px;
+  margin-top:10px;
+}
+
+.travel .services .category-MFV {
+  margin-right: 13.95rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .services .category-MFV .group-49 {
+  width: 5.8rem;
+  height: 3.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-left:-1100px;
+  margin-top:80px;
+}
+.travel .services  .category-MFV .customization {
+  margin: 0rem 0.1rem 1.4rem 0rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3625;
+  color: #1e1d4c;
+  font-family: Open Sans;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left:-1430px;
+  
+}
+.travel .services  .category-MFV .we{
+  max-width: 18rem;
+  text-align: center;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+  margin-left:-1430px;
+}
+
+
+
+
+.travel .destinations {
+  margin: 0rem 37rem 18.6rem 17.3rem;
+  width: calc(100% - 54.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .destinations .auto{
+  box-sizing: border-box;
+  padding: 0rem 36.7rem 6rem 31.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .destinations .auto .subheading {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-300px;
+  margin-left:400px;
+}
+.travel .destinations .auto .heading {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #14183e;
+  font-family: Volkhov;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-20px;
+  margin-left:400px;
+}
+.travel .destinations .auto-group {
+  width: 100%;
+  height: 45.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .destinations .auto-group .destination {
+  margin-right: 3.5rem;
+  width: 31.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.travel .destinations .auto-group .destination .rectangle {
+  width: 14.4rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  margin-top:-200px;
+}
+
+.travel .destinations .auto-group .destination .card-2 .auto-group-rX1 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .destination .card-2 .auto-group-rX1 .rome{
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  position: absolute;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:100px;
+  margin-left:20px;
+}
+.travel .destinations .auto-group .destination .card-2 .auto-group-rX1 .k {
+  margin-top: 0.1rem;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:100px;
+  margin-left:150px;
+}
+.travel .destinations .auto-group .destination .card-2 .auto-group-a11z {
+  margin: 0rem 14.1rem 0rem 0.187rem;
+  width: calc(100% - 14.2875rem);
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .destination .card-2 .auto-group-a11z .navigation {
+  width: 1.0rem;
+  height: 1.0rem;
+  position: absolute;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-40px;
+  margin-left:20px;
+}
+.travel .destinations .auto-group .destination .card-2 .auto-group-a11z .days {
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-30px;
+  margin-left:40px;
+}
+
+.travel .destinations .auto-group .destination-1 {
+  margin-right: 6rem;
+  width: 31.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.travel .destinations .auto-group .destination-1 .rectangle-14-1 {
+  width: 14.4rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  margin-top:-200px;
+  margin-left:-250px;
+}
+.travel .destinations .auto-group .destination-1 .card-4 {
+  box-sizing: border-box;
+  padding: 2.7rem 2.9rem 4.2rem 2rem;
+  width: 31.5rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 32.7rem;
+  background-color: #ffffff;
+  border-radius: 0 0 2.4rem 2.4rem;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-ymy {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-ymy .london {
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left:-250px;
+  margin-top:-900px;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-ymy .k-1 {
+  margin-top: 0.1rem;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left:50px;
+  margin-top:-900px;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-aWs {
+  margin: 0rem 13.9rem 0rem 0.187rem;
+  width: calc(100% - 14.0875rem);
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-aWs .navigation-1 {
+  width: 1.0rem;
+  height: 1.0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-890px;
+  margin-left:-250px;
+}
+.travel .destinations .auto-group .destination-1 .card-4 .auto-group-aWs .days-1 {
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-880px;
+  margin-left:-350px;
+}
+
+.travel .destinations .auto-group .auto-group-1 {
+  width: 37.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.travel .destinations .auto-group .auto-group-1 .decore {
+  width: 5.0rem;
+  height: 10.0rem;
+  position: absolute;
+  left: 28.1rem;
+  top: 15.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  margin-top:-370px;
+  margin-left:-800px;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2{
+  width: 31.5rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .rectangle-14-2{
+  width: 14.4rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2.4rem;
+  margin-top:-200px;
+  margin-left:-550px;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5{
+  box-sizing: border-box;
+  padding: 2.8rem 2.7rem 4.2rem 2rem;
+  width: 31.5rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 32.7rem;
+  background-color: #ffffff;
+  border-radius: 0 0 2.4rem 2.4rem;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-3 {
+  margin-bottom: 1.7rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-3 .full {
+  margin-right: 13.3rem;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-900px;
+  margin-left:-550px;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-3 .k-3 {
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2449999915;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-900px;
+  margin-left:-150px;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-E15 {
+  margin: 0rem 14rem 0rem 0.187rem;
+  width: calc(100% - 14.1875rem);
+  display: flex;
+  align-items: center;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-E15 .navigation-2 {
+  width: 1.0rem;
+  height: 1.0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-890px;
+  margin-left:-550px;
+}
+.travel .destinations .auto-group .auto-group-1 .destination-2 .card-5 .auto-group-E15 .days-2 {
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-880px;
+  margin-left:-350px;
+}
+
+
+
+
+.travel .book-trip {
+  margin: 0rem 34.5rem 20rem 18.6rem;
+  width: calc(100% - 53.1rem);
+  height: 49.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group {
+  margin-right: 11.8rem;
+  width: 51.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .subheading {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  margin-left:-400px;
+  margin-top:-700px;
+}
+.travel .book-trip .auto-group .heading {
+  margin-bottom: 3.2rem;
+  max-width: 51.1rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.29;
+  text-transform: capitalize;
+  color: #14183e;
+  font-family: Volkhov;
+  margin-left:-70px;
+  margin-top:20px;
+  
+}
+.travel .book-trip .auto-group .values {
+  width: 39.5rem;
+  row-gap: 4.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.travel .book-trip .auto-group .values .value {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value .group {
+  margin: 0rem 2.1rem 0.8rem 0rem;
+  width: 3.7rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-10px;
+  margin-left:-70px;
+}
+.travel .book-trip .auto-group .values .value .auto-group-1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value .auto-group-1 .choose {
+  margin-bottom: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value .auto-group-1 .lorem{
+  max-width: 32.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+}
+
+.travel .book-trip .auto-group .values .value-1 {
+  width: 100%;
+  height: 6.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+ .travel .book-trip .auto-group .values .value-1 .group-1 {
+  margin: 0rem 2.1rem 0.8rem 0rem;
+  width: 3.7rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-110px;
+  margin-left:-70px;
+}
+.travel .book-trip .auto-group .values .value-1 .auto-group-2 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value-1 .auto-group-2 .make {
+  margin-bottom: 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-50px;
+}
+.travel .book-trip .auto-group .values .value-1 .auto-group-2 .lorem-1{
+  max-width: 32.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+  margin-top:-1px;
+}
+
+.travel .book-trip .auto-group .values .value-2 {
+  width: 100%;
+  height: 6.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value-2 .group-2 {
+  margin: 0.4rem 2.1rem 0rem 0rem;
+  width: 3.7rem;
+  height: 3.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-90px;
+  margin-left:-70px;
+}
+.travel .book-trip .auto-group .values .value-2 .auto-group-3 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.travel .book-trip .auto-group .values .value-2 .auto-group-3 .reach {
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top:-100px;
+  margin-left:-5px;
+}
+.travel .book-trip .auto-group .values .value-2 .auto-group-3 .lorem-3{
+  max-width: 32.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2450000048;
+  color: #5e6282;
+  font-family: Poppins;
+  flex-shrink: 0;
+  margin-top:-1px;
+  margin-left:-5px;
+  
+}
+
+
+.travel .logos {
+  margin: 0rem 38.6rem 11.1rem 18.6rem;
+  width: calc(100% - 57.2rem);
+  height: 16.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .logos .auto-group {
+  box-sizing: border-box;
+  padding: 1.6rem 5.014rem 1.6rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .logos .auto-group .image-27 {
+  margin-right: 7.7rem;
+  width: 7rem;
+  height: 7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-2300px;
+  margin-left:-120px;
+}
+.travel .logos .auto-group .image-28 {
+  margin-top: 0.2rem;
+  width: 9.2857rem;
+  height: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-2300px; 
+  margin-left:-70px;
+}
+.travel .logos .group-63 {
+  width: 24.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.travel .logos .group-63 .rectangle {
+  width: 15.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 4.2rem;
+  box-shadow: 0 0.1852rem 0.3148rem rgba(0, 0, 0, 0.0048148148), 0 0.8148rem 0.6519rem rgba(0, 0, 0, 0.0078518521), 0 2rem 1.3rem rgba(0, 0, 0, 0.0099999998), 0 3.8519rem 2.5481rem rgba(0, 0, 0, 0.0121481484), 0 6.4815rem 4.6852rem rgba(0, 0, 0, 0.0151851848), 0 10rem 8rem rgba(0, 0, 0, 0.0199999996);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  margin-top:-1120px;
+  margin-left:-400px;
+}
+.travel .logos .group-63 .image-29 {
+  width: 10.2rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  margin-top:-1100px;
+  margin-left:-430px;
+}
+.travel .logos .auto-group-1 {
+  box-sizing: border-box;
+  padding: 6.7rem 0rem 6.3rem 4.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.travel .logos .auto-group-1 .image-30 {
+  width: 11.0rem;
+  height: 2.0rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-2300px;
+  margin-left:-550px;
+}
+.travel .logos .auto-group-1 .image-31 {
+  margin-bottom: 0.3rem;
+  width: 7.5rem;
+  height: 1.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin-top:-2300px;
+  margin-left:-300px;
+}
+
+
+
+
+
+
+
+
